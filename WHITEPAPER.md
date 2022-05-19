@@ -27,6 +27,8 @@ market, as well as [_John Bogle's_](https://en.wikipedia.org/wiki/John_C._Bogle)
 ## Table of Contents
 
 - [Brief component description](#brief-component-description)
+- [Project tokenomics](#project-tokenomics)
+  - [Coin use cases](#coin-use-cases)
 
 ## Brief component description
 
@@ -61,5 +63,21 @@ _**Atlantida**_ investment ecosystem consists of the following components:
   assets according to _**Atlantida Indexes**_. By investing into _**Atlantida Funds**_ tokens users invest into indexes
   consisting of multiple crypto assets, which allows them to create diversified portfolios with less trouble and
   thus minimize their risks on the crypto market.
+
+## Project tokenomics
+
+### Coin use cases
+
+- Public evaluation and new crypto projects audition payments.
+- Payments for custom crypto index orders.
+- _**Atlantida Strategies**_ subscripton fee.
+- _**Atlantida Analytics**_ subscripton fee.
+- _**Atlantida Autopilot**_ subscripton fee.
+- One of the ways to get _**Atlantida Funds**_ tokens.
+
+_**NOTE:** as the blockchain ecosystem expands, the coin will go beyond a mere payment system in the project
+tokenomics. The possibility to use the coin as a payment instrument will be decided according to the local jurisdiction
+of each particular user's country. In case of a ban on using cryptocurrencies as payment instruments the user may get
+an alternative option for payment with fiat money according to coin's current exchange rate._
 
 ------
