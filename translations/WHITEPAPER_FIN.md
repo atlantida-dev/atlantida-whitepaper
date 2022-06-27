@@ -28,6 +28,8 @@ sekä [_Jonh Boglen_](https://fi.wikipedia.org/wiki/John_C._Bogle) indeksisijoit
 ## Sisällysluettelo
 
 - [Komponenttien lyhyt kuvaus](#komponenttien-lyhyt-kuvaus)
+- [Projektin tokenomikka](#projektin-tokenomikka)
+  - [Projektin tokenomikka](#projektin-tokenomikka)
 
 ## Komponenttien lyhyt kuvaus
 
@@ -62,5 +64,21 @@ _**Atlantidan**_ sijoitusekosysteemi kooostuu seuraavista komponenttista:
   jakamisesta _**Atlantida Indeksien**_ mukaan. Sijoittamalla _**Atlantida Funds**_ tokeneihin käyttäjät sijoittavat indekseihin,
   jotka koostuvat useista krypto-omaisuuksista, mikä antaa heille mahdollisuuden luoda hajautettuja kryptoportfolioita pienemmällä
   vaivalla ja siten minimoida riskinsä kryptomarkkinoilla.
+
+## Projektin tokenomikka
+
+### Kolikoiden käyttötapauksia
+
+- Julkisen arvioinnin ja uusien kryptoprojektien auditoinnin maksut.
+- Maksu kryptovaluutta-indeksien kokoamisesta tilauksesta.
+- _**Atlantida Strategiesin**_ liitymämaksu.
+- _**Atlantida Analyticsin**_ liitymämaksu.
+- _**Atlantida Autopilotin**_ liitymämaksu.
+- Kuinka saada _**Atlantida Funds**_ -tokeneita.
+
+_**Muistio:**_ kun lohkoketjuekosysteemi laajenee, kolikko ulottuu pidemmälle kuin pelkkä maksujärjestelmä projektin
+tokenomiikassa. Mahdollisuus käyttää kolikkoa maksuvälineenä määräytyy kunkin käyttäjän maan paikallisen lainsäädännön
+mukaan. Mikäli kryptovaluuttojen käyttö maksuvälineenä kielletään, käyttäjä voi saada vaihtoehtoisen vaihtoehdon maksaa
+fiat-rahalla kolikon kulloisenkin vaihtokurssin mukaan.
 
 ------
